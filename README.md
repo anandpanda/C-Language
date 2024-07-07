@@ -25,7 +25,7 @@ git clone https://github.com/anandpanda/C-Language.git
 cd C-Language
 gcc [program_name].c -o [program_name]
 ./[program_name]
-
+```
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!
